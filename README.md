@@ -1,2 +1,2 @@
-# Githubjenkins-
-jenkins github integration project with code analysis
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
