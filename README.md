@@ -1,1 +1,1 @@
-#simple build project
+simple build project for jenkins
